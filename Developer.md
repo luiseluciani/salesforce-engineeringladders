@@ -3,7 +3,7 @@
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
 | Level | Senior | Position | Title |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | 1 | No | [D1 - Developer 1](#d1---developer-1) | Junior Salesforce Developer |
 | 2 | No | [D2 - Developer 2](#d2---developer-2) | Salesforce Developer II |
 | 3 | Yes | [D3 - Developer 3](#d3---developer-3) | Senior Salesforce Developer |
